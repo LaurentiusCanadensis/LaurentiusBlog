@@ -7,4 +7,4 @@ gem "jekyll", "~> 4.3.2" # installed by `gem jekyll`
 # gem "just-the-docs"        # always download the latest release
 gem "just-the-docs", "0.5.3"
 
-get "jekyll-default-layout" 
+gem "jekyll-default-layout" 
